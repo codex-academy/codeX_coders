@@ -1,0 +1,109 @@
+<!DOCTYPEhtml>
+<html>
+<head>
+<!--
+<img src="https://avatars2.githubusercontent.com/u/7427964?v=2&s=200f" alt> 
+-->
+
+<div id="header">
+	<h1><i>Lwazi Dyantyi<i/></h1>
+</div>
+<title> 
+CodeX Profile
+</title>
+
+<img id="drag1" src="./me.jpg" width="336" height="250">
+
+ 
+<style> 
+p {color:orange}
+h1 {color:green}
+body { 
+background-image: url("https://avatars2.githubusercontent.com/u/7427964?v=2&s=200")
+				}	
+</style> 
+<head>
+<style>
+#header {
+   
+    color:purple;
+    text-align:center;
+    padding:5px;
+}
+
+#section {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+#section2 {
+    width:350px;
+    float:right;
+    padding:10px;
+ 	 
+}
+#section3 {
+    width:350px;
+    float:right;
+    padding:10px;
+text-align:bottom;
+ 	 
+}
+#footer {
+    
+    color:purple;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+</style>
+</head>
+
+<body>
+
+<div id="section">
+<h2>About me</h2>
+
+<p><font face="verdana" color="green">My name is Lwazi Dyantyi from Nyanga East Old Location based in Cape Town. I'm 24 years old with a great passion in literature writing and computer programming. I'm a former student at the University of the Western Cape majoring in BSc Computer Science.</font></p>
+<p>
+
+</p>
+<p><font face="verdana" color="green">I am an aspiring writer. I am of the fortunate people to have join the codeX programme. I have good programming background, Java coding, to be precise. I love coding as well as literature writing. In this programme I will acquire more skill whilst learning more about the technological industry.
+</font></p>
+<p>
+
+<p>
+
+</div>
+
+
+<div id="section2">
+<h2>Contacts</h2>
+<p><font size="3" color="red">Twitter @lwazi123</font>
+
+</p>
+<p>
+
+<font size="3" color="red">Instangram lwazi1231</font>
+</p>
+</div>
+
+
+<div id="section3">
+<h2>More</h2>
+<p>
+<font size="3" color="blue">As an aspiring writer, I've made success by far thus having three successful articles, out of eight submitted, published in a local newspaper, City Vision. I am easily reachable in any of the conctacts listed.</font>
+
+</p>
+
+</div>
+
+
+<div id="footer">
+Copyright Lwazi Dyantyi
+</div>
+
+
+</body>
+</html>
+
