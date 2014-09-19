@@ -20,6 +20,12 @@ body {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
+    
+    
+    background: black;
+    opacity: 0.5
+    
+
 }
 
 .text-vertical-center h1 {
@@ -38,8 +44,11 @@ body {
 
 .btn-dark {
     border-radius: 0;
-    color: #fff;
-    background-color: rgba(0,0,0,0.4);
+    color: #8bc53f;
+}
+
+.bg-primary {
+    background-color: #8bc53f;
 }
 
 .btn-dark:hover,
