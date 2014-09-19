@@ -1,0 +1,80 @@
+ <!DOCTYPE html>
+<html>
+<body>
+
+<div id="header">
+<h1>My pictures</h1>
+</div>
+</body>
+
+<body>
+ 
+  <img src="Mina lo.jpg" alt="Mountain View" style="width:304px;height:228px">
+
+ <img src="Khesa2.jpg" alt="Mountain View" style="width:304px;height:228px">
+
+ <img src="Qumba's @ PE.jpg" alt="Mountain View" style="width:304px;height:228px">
+
+ <img src="Kerk.jpg" alt="Mountain View" style="width:304px;height:228px">
+<style>
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px;
+}
+#footer {
+    background-color:display;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+}
+
+
+p.inline {
+    display: inline;
+} 
+
+<styles>
+
+body {background-colour: red}
+
+</styles>
+
+
+<div id="header">
+<h1>My pictures</h1>
+</div>
+
+<p>This is another paragraph</p>
+
+<a href="test.html">link</a>
+
+
+<img src="Chris4_001.jpg" alt="Mountain View" style="width:304px;height:228px">
+
+<img src="Mr.jpg" alt="Mountain View" style="width:304px;height:228px">
+
+<img src="Sannie1.jpg" alt="Mountain View" style="width:304px;height:228px">
+
+</html> 
+
+
+
+
+
+
