@@ -1,3 +1,28 @@
 <html>
-<h1> Mawande Mnukwa
+<head>
+<link rel="stylesheet" type="text/css" href="home.css"></head>
+<h1>Operation Mawande</h1>
+<div id="nav">
+	<a href="beginning.html">Beginnings</a>
+    	<a href="#">Interests</a>
+    	<a href="#">Projects</a>
+    	<a href="#">Contact</a>
+</div>
+
+<div id="twitter">
+ <a class="twitter-timeline"  href="https://twitter.com/Puwasaki" data-widget-id="512613560778633217">Tweets by @Puwasaki</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+          </script>
+</div>
+
+
+<div id="footer">
+  <p>Created by: Mawande Mnukwa</p>
+  <p>Contact information: <a href="mailto:mawande.projectcodex.co">
+  mawande.projectcodex.co</a>.</p>
+</div>
+
+
+
+
 
