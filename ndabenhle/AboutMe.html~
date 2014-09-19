@@ -1,0 +1,141 @@
+<!DOCTYPE html> 
+
+<html>
+
+<head>
+<title> 
+Ndabenhle's Awesome Page! 
+</title> 
+
+<link rel="stylesheet" type="text/css" href="Codex_Page.css"> 
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+
+<script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script> 
+
+<script type="text/javascript" src="Codex_Page.js">
+
+
+
+</script>
+
+
+</head> 
+
+<div class ="GlobalWrapper">
+
+<body> 
+
+	<div id ="Nav">  
+ 
+		<div id="NavWrap">
+	
+			<ul id = "NavList">
+ 
+			<li><a href = "index.html"> Home</a></li><li> 
+			<a href = "AboutMe.html"> About</a> </li><li>  
+			<a href = "ContactMe.html"> Contact Me</a> </li>	
+
+			</ul>
+
+		</div>
+
+	</div> 
+
+		<div class="Picture_Container"> 
+
+			<img class="me" src="Images/1525006_10153591304460582_1732998118_n.jpg">
+
+		</div> 					
+
+	
+
+	<div class="about">  
+
+		
+
+		<div class="TextBox">
+
+
+				<div class ="NameBox"> 
+					<p class="MyName">Ndabenhle Ngulube</p>
+				</div> 
+
+				<div class="DescriptionBox"> 
+
+					<p class="AboutMeText"> So you want to know more about me?
+	
+					<br>
+					 Born in Zimbabwe, I moved to South Africa when I was 2 years old. I now find myself in
+					 Cape Town doing my post grad in Tax at the University of Cape Town! <br>
+					 Having developed a keen interest in tech, i took it upon myself to teach myself as much 
+					 as possible with regards to the industry. <br>
+					 I hope to come out of project Codex as a competent developer!
+					 </p>
+
+				</div>
+ 
+		</div> 
+
+				<div class="SocialMedia"> 
+				
+			<img class="Logos" src="Images/star-icon.png">
+
+			<img class="Logos" src="Images/star-icon.png">
+				
+			<img class="Logos" src="Images/star-icon.png">
+
+				</div>
+ 
+
+	</div> 
+
+					<div class="FullLength">
+
+						<div id="box1"> 
+							<a href="https://www.twitter.com/wolfnda"><img id="Interests" src ="Images/Logo-Twitter.jpg"></a>
+						</div> 
+
+						<div id="box1"> 
+							<a href="https://github.com/NdaJunior"><img id="Interests" src="Images/GitHub-Mark.png"></a> 
+						</div> 
+
+						<div id="box1"> 
+							<a href="http://stackoverflow.com/users/4042529/wolfnda"><img id="Interests" src="Images/stack-icon.png"></a>
+						</div> 
+
+						<div id="box1"> 
+							<a href="https://www.facebook.com/ndabenhlejunior"><img id="Interests" src="Images/fb_icon_325x325.png"></a> 
+						</div>
+ 
+
+					</div> 
+
+
+<div class= "BounceBox"> 
+<div id="ball"> 
+			
+<a href=#> <img id="FaceBall" src="Images/39331_446915380468_3414954_n.jpg"> </a>
+			
+</div>
+<div id="shadow">
+</div> 
+
+							
+
+
+
+
+
+
+
+							</div> 
+
+
+</body> 
+
+</div>
+
+</html> 
+
+
