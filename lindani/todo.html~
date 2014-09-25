@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+  <meta charset="utf-8">
+  <title>To Do List</title>
+
+<body>
+  <center><head> <u>To Do List</u></head></center>
+  <ol>
+    <li>
+      More prectice on HTML and CSS langauge to improve my web page and help others.
+    </li>
+    <li>
+      Learn more terminal commands
+    </li>
+    <li>
+      Learn more git commands
+    </li>
+    <li>
+      Pay attention to every social sites and interact often.
+    </li>
+    <li>
+      Attention to deatail on every task
+    </li>
+    <li>
+      Learn to take awsome pictures and videos
+    </li>
+    <li>
+      Be panctual at all times 
+    </li>
+    <li>
+      Be aware of updates at all times, if not. Ask around coders!!!
+    </li>
+    
+  </ol>
+
+</body>
+</html>

@@ -41,7 +41,7 @@
 			} 
 
 
-			#RedHeader { 
+			#YellowHeader { 
 					color: yellow;
 				} 
 
@@ -69,7 +69,7 @@
 </head>
 <body>
 
-<h1 id="RedHeader">  WHO AM I </h1>
+<h1 id="YellowHeader">  WHO AM I </h1>
  
 <div class="align-left">
 <center> <p> I am an aspiring programmer whos ambitions are to inspire 
@@ -88,7 +88,6 @@ attraction sites like the <a href="http://www.capetown.travel/activities/entry/k
  to name few. It has more sport facilities catering for soccer, rugby, 
 cricket and basket ball for aspiring sportsman and special schools for 
 academics. </p> </center>
-
 <center><img src="Images/railway_lines.jpg" alt="Khayelitsha" height="500" width="1000"> </center>
 <h1 id="RedHeader">  MY ACHIEVEMENTS</h1>
   
@@ -132,6 +131,12 @@ like me. </p></center>
 <a href="http://www.projectcodex.co/content/blog.html"> <img src="Images/codeX-logo-alt.png" alt="ProjectcodeX" height="40" width="40"></a> 
  </div> </center>
 
+
+
+
+
+
+</body></html>
+
 </body>
 </html>
-
